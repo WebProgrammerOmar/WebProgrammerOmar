@@ -1,6 +1,14 @@
 ### About Me 👤  
-```js 
-const Fnr = {     
-name: "Ahmed",
-     
-  age: 17,     from: "Bahrain",     Discord: "Fnr#0017",     technologies: {         backend: ["NodeJS", "express"],         database: ["Mysql", "MongoDB"],     },     languages: ["Python", "HTML", "CSS", "JavaScript"] };
+```js
+const Shadow = {
+        name: "Omar",
+        age: 17,
+        from: "Palestine - Gaza Strip",
+        Discord: "Shadow ;)#0001",
+        technologies: {
+            backend: ["Php", "Laravel"],
+            database: ["Mysql"],
+        },
+        languages: ["Python", "HTML", "CSS", "JavaScript", "Php" , "Mysql"]
+    };
+```
