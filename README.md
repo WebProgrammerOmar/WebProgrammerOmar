@@ -1,10 +1,10 @@
-### About Me 👤  
+### About Me 👨‍💻  
 ```js
 const Shadow = {
         name: "Omar",
         age: 17,
         from: "Palestine - Gaza Strip",
-        Discord: "Shadow ;)#0001",
+        Discord: "Shadow ;)#0764",
         technologies: {
             backend: ["Php", "Laravel"],
             database: ["Mysql"],
