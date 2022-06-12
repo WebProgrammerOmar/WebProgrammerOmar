@@ -4,7 +4,7 @@ const Shadow = {
         name: "Omar",
         age: 17,
         from: "Palestine - Gaza Strip",
-        Discord: "Shadow ;)#0764",
+        Discord: "! Shadow .#1228",
         technologies: {
             backend: ["Php", "Laravel"],
             database: ["Mysql"],
